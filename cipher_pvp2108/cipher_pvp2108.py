@@ -11,7 +11,6 @@ def cipher(text, shift, encrypt=True):
     encrypt:
         Default value is left shift, but setting it to False will create a right shift. 
 
-    Returns
     -------
     The new string text after the caesar cipher has been applied to it.
 
